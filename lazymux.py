@@ -7,6 +7,7 @@ from core.lzmcore import *
 
 def main():
 	banner()
+	print("   Guccifer 3.0 (www.guccifer3.blogspot.com)
 	print("   [01] Information Gathering")
 	print("   [02] Vulnerability Analysis")
 	print("   [03] Web Hacking")
